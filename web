@@ -1,0 +1,59 @@
+<!Doctype html>
+<html>
+
+<head>
+ <title> Cindy Mata </title>
+
+ <style>
+
+ h1{
+   font-size: 60px;
+color: rgb(240,183,169)}
+ img{ transform: rotate(90deg);
+ }
+
+ </style>
+</head>
+
+<center>
+  <img src= "cindy.jpg" width=100>
+
+
+
+<body>
+ <center>
+   <h1> Cindy Mata </h1>
+ </center>
+
+ <h3> <a href="cindee.mata@gmail.com"> contact </a> </h3>
+
+
+ <h3> ABOUT ME:</h3>  <br>
+ </menu> Hey, I'm a 16 year old girl from Yonkers, New York. Currently I am a rising junior attending Saunders Trades and Technical High School and study Fashion Design.
+
+<hr> </hr>
+</center>
+<h3> Important Works / Experiences </h3>
+<p>
+  <ul>
+<li> Mathematical Modeling at Mercy College </li>
+    <li> Saunders Fashion </li>
+    <li> Girls Who Code </li>
+    <li> Youth to Youth </li>
+    <li> UNICEF </li>
+    <li> March of Dimes 2016-2017 </li>
+
+</p>
+
+<center> <hr> </center> </hr>
+<h3> Fashion Works </h3>
+
+<center> <hr> </center> </hr>
+<h3> Programming </h3>
+
+<center> <hr> </center> </hr>
+<h3> Artistic Projects </h3>
+
+</body>
+
+</html>
